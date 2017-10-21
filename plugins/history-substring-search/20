@@ -1,0 +1,10 @@
+    1  ls
+    2  exit
+    3  ls -la
+    4  vim .zshrc
+    5  exit
+    6  which zsh
+    7  ls
+    8  exit
+    9  exit
+   10  tmux
